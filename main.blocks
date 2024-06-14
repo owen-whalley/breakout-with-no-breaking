@@ -1,0 +1,3 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="P%IUfndRWm`x$~PEY=_l" x="0" y="0"><comment pinned="true" h="134" w="214">Created by: Owen Whalley
+Created on: June 14th, 2024
+This is the "Hello, World!" program.</comment><statement name="HANDLER"><block type="gameSplash" id="lY{5F1;E9O9Fsxt0|)6;"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="true"></mutation><value name="title"><shadow type="text" id="j%Bir@x=PITXw8vzQDSC"><field name="TEXT">Hello, World!</field></shadow></value><value name="subtitle"><shadow type="text" id="A{DAdGBHE/x8CZm_1?UZ"><field name="TEXT"></field></shadow></value></block></statement></block></xml>
